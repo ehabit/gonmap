@@ -1,4 +1,4 @@
-go-nmap
+gonmap
 =======
 
-A Go library for accessing nmap port scanner in Go.
+A Go library for accessing nmap port scanner.
